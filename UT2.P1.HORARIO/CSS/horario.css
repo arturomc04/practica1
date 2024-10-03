@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(231, 219, 204);
+}
+table{
+	width: 800px;
+    height: 400px;
+    margin-top: 100px;
+    
+}
+td#recreo{
+    background-color: rgb(36, 155, 85);
+    
+}
+td.empresa{
+    background-color: aqua;
+}
+td.despliegue{
+    background-color: rgb(255, 255, 14);
+}
+td.servidores{
+    background-color: blueviolet;
+}
+td.cliente{
+    background-color: chocolate;
+}
+td.interfaz{
+    background-color: chartreuse;
+}
+td.libre{
+    background-color: burlywood;
+}
+td{
+    text-align: center;
+    
+}
